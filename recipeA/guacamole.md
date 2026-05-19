@@ -6,4 +6,5 @@
 * salt
 
 ## Instructions
-Mix all ingredients
+*Mix all ingredients in food processor
+*Never serve with onions
