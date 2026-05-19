@@ -10,5 +10,5 @@
 * salt
 
 ## Instructions
-Add all ingredients to a food processor
-
+*Add all ingredients to a food processor
+*Serve with chips and salsa
